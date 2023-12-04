@@ -1,0 +1,9 @@
+﻿  MyForm.cpp
+C:\Users\jamed\source\repos\student\student2211\MyForm.h(229,61): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\jamed\source\repos\student\student2211\MyForm.h(232,71): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\jamed\source\repos\student\student2211\MyForm.h(235,69): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\jamed\source\repos\student\student2211\MyForm.h(242,49): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\jamed\source\repos\student\student2211\MyForm.h(242,46): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\jamed\source\repos\student\student2211\MyForm.h(545,57): warning C4101: e: неиспользованная локальная переменная
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  student2211.vcxproj -> C:\Users\jamed\source\repos\student\student2211\x64\Debug\student2211.exe
